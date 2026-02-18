@@ -1,0 +1,19 @@
+public class JavaOut{
+
+public static void main(string[] arg){
+   //using the println method
+   System.Out.println(''hello word, this is my first java program'');
+   System.Out.println(''learning java is fun'');
+   
+   
+   
+   //using print method
+   System.out.print(''yes i love learning java'');
+   
+   
+   //using printf method
+   System.out.printf(''my name is kadi, i am %d years old %n'', 25);
+   
+   
+  }
+}
